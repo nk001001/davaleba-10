@@ -28,6 +28,7 @@ textarea {
   background-color: rgb(233, 232, 232);
   border: 2px solid rgb(205, 204, 204);
 }
+
 textarea:focus {
   outline: none;
 }
